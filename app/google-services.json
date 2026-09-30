@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "700912383657",
+    "firebase_url": "https://signalingapp64-20617-default-rtdb.firebaseio.com",
+    "project_id": "signalingapp64-20617",
+    "storage_bucket": "signalingapp64-20617.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700912383657:android:ea6459f0daa7e169a35bb8",
+        "android_client_info": {
+          "package_name": "com.example.signalingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALXu-PPKXXvTdw2O3dqNkSqG-rBBH7J0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
